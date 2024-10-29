@@ -4,7 +4,7 @@ import os
 from skimage.filters import threshold_sauvola
 import matplotlib.pyplot as plt
 from PIL import Image
-from freeman import main as freeman8
+from freeman8import main as freeman8
 from freeman4 import main as freeman4
 
 class MooreBoundary:
